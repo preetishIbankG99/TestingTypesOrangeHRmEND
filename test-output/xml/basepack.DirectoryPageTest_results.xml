@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OrangeHrmApp Test for Firefox"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.639">
+  <properties />
+  
+  
+            <testcase name="directoryPage" time="15.639" classname="basepack.DirectoryPageTest" />
+      
+</testsuite>
