@@ -1636,3 +1636,93 @@
 2021-12-30 16:41:09,264 [main] INFO OrangeHrm - Name Entered
 2021-12-30 16:41:13,466 [main] INFO OrangeHrm - JobTitle Entered
 2021-12-30 16:41:17,600 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:03:10,985 [main] INFO OrangeHrm - App Launch Started For Chrome Browser
+2022-01-01 12:03:31,160 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:03:38,192 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:03:43,155 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:03:43,469 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:03:54,379 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:04:04,304 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:04:05,048 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:04:09,422 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:04:13,600 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:04:15,888 [main] INFO OrangeHrm - App Launch Started For Firefox Browser
+2022-01-01 12:05:07,282 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:05:15,842 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:05:16,892 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:05:16,968 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:05:22,527 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:05:22,679 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:05:26,370 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:05:30,788 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:05:35,158 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:05:39,480 [main] INFO OrangeHrm - App Launch Started For Opera Browser
+2022-01-01 12:06:06,137 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:06:16,069 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:06:17,619 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:06:18,036 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:06:27,748 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:06:40,865 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:06:41,071 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:06:45,368 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:06:49,701 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:20:55,576 [main] INFO OrangeHrm - App Launch Started For Chrome Browser
+2022-01-01 12:21:08,159 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:21:16,477 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:21:18,926 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:21:19,145 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:21:27,610 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:21:44,379 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:21:44,844 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:21:49,059 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:21:53,190 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:21:56,607 [main] INFO OrangeHrm - App Launch Started For Firefox Browser
+2022-01-01 12:22:38,952 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:22:47,567 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:22:47,982 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:22:48,058 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:22:55,028 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:22:55,152 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:22:56,729 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:23:01,127 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:23:05,426 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:23:11,506 [main] INFO OrangeHrm - App Launch Started For Opera Browser
+2022-01-01 12:23:46,631 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:24:01,615 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:24:02,897 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:24:03,190 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:24:13,429 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:24:24,783 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:24:25,010 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:24:29,178 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:24:33,350 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:44:29,702 [main] INFO OrangeHrm - App Launch Started For Chrome Browser
+2022-01-01 12:44:34,630 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:44:41,233 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:44:41,628 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:44:41,745 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:44:47,926 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:45:01,269 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:45:01,519 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:45:05,681 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:45:09,818 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:45:12,448 [main] INFO OrangeHrm - App Launch Started For Firefox Browser
+2022-01-01 12:45:26,556 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:45:59,271 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:45:59,422 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:45:59,482 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:46:05,570 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:46:05,666 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:46:07,506 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:46:11,851 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:46:16,182 [main] INFO OrangeHrm - LocationField Entered
+2022-01-01 12:46:18,156 [main] INFO OrangeHrm - App Launch Started For Opera Browser
+2022-01-01 12:46:39,831 [main] INFO OrangeHrm - Browser Maximized
+2022-01-01 12:46:48,068 [main] INFO OrangeHrm - Url Entered
+2022-01-01 12:46:49,060 [main] INFO OrangeHrm - UserName Entered
+2022-01-01 12:46:49,667 [main] INFO OrangeHrm - PassWord Entered
+2022-01-01 12:46:59,324 [main] INFO OrangeHrm - Button Clicked
+2022-01-01 12:47:10,564 [main] INFO OrangeHrm - DirectoryTab Clicked
+2022-01-01 12:47:10,767 [main] INFO OrangeHrm - Name Entered
+2022-01-01 12:47:14,932 [main] INFO OrangeHrm - JobTitle Entered
+2022-01-01 12:47:19,088 [main] INFO OrangeHrm - LocationField Entered

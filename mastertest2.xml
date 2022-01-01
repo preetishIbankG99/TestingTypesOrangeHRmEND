@@ -3,6 +3,7 @@
 <suite name="Suite">
 	<listeners>
 		<listener class-name="basepack.Reporting" />
+		<listener class-name="basepack.TestNGListener"/>
 		<!-- <listener class-name="org.uncommons.reportng.HTMLReporter" />
 		<listener
 			class-name="org.uncommons.reportng.JUnitXMLReporter" /> -->

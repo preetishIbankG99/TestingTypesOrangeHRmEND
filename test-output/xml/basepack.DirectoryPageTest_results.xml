@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="15.639">
+           time="19.316">
   <properties />
   
   
-            <testcase name="directoryPage" time="15.639" classname="basepack.DirectoryPageTest" />
+            <testcase name="directoryPage" time="19.316" classname="basepack.DirectoryPageTest" />
       
 </testsuite>

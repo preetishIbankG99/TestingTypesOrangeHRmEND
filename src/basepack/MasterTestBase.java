@@ -20,17 +20,21 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.opera.OperaDriver;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import basepack.WebEventListener;
 
 public class MasterTestBase {
 public static WebDriver driver;
 public Logger logger;
 public Properties p;
+public  static EventFiringWebDriver e_driver;
+public static WebEventListener eventListener;
 @Parameters("browser")
 
 @BeforeMethod
@@ -62,6 +66,10 @@ public void setUpBrowser(String brow) throws IOException,FileNotFoundException {
 		driver=new OperaDriver();
 		}
 	driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+	e_driver=new EventFiringWebDriver(driver);
+    eventListener=new WebEventListener();
+    e_driver.register(eventListener);
+    driver=e_driver;
 	driver.manage().window().maximize();
 	logger.info("Browser Maximized");
 	driver.get(p.getProperty("url"));
